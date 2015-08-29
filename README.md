@@ -9,3 +9,7 @@ H3C INODE CLIENT FOR OPENWRT WRITTEN BY PYTHON.
 ```
 the list of packages:
 luci-app-oh3c
+
+#MAKE MENUCONFIG
+
+**Network -> <*> luci-app-oh3c**
